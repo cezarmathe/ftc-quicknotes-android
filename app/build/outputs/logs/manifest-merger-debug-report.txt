@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cezar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62bd20646463e91a07803282724b1d06/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/211f9b195423ab5b530e3384571cb5cc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0ebed83f3866fca52b9a70e7a612624d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e9d461a587049143a96a39a82428d424/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/29278d97225ad8c6bc312e6a9be2670d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/6ccff2144a6000cdddb21838e92d8262/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08e62bbd108e4ec1da1fcb1ced218d67/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/32281f8721aa18f1c2770602e5874bf6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/04c502dbc1540f6a03a94a00a2158e57/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cezar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62bd20646463e91a07803282724b1d06/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cezar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62bd20646463e91a07803282724b1d06/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/211f9b195423ab5b530e3384571cb5cc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/211f9b195423ab5b530e3384571cb5cc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0ebed83f3866fca52b9a70e7a612624d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0ebed83f3866fca52b9a70e7a612624d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e9d461a587049143a96a39a82428d424/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e9d461a587049143a96a39a82428d424/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/29278d97225ad8c6bc312e6a9be2670d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/29278d97225ad8c6bc312e6a9be2670d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/6ccff2144a6000cdddb21838e92d8262/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/6ccff2144a6000cdddb21838e92d8262/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08e62bbd108e4ec1da1fcb1ced218d67/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08e62bbd108e4ec1da1fcb1ced218d67/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/32281f8721aa18f1c2770602e5874bf6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/32281f8721aa18f1c2770602e5874bf6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/04c502dbc1540f6a03a94a00a2158e57/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/04c502dbc1540f6a03a94a00a2158e57/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.vectron_ftc.ftcquicknotes.Hub
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:12:9-50
+	android:name
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:12:19-38
+uses-sdk
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cezar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62bd20646463e91a07803282724b1d06/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cezar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62bd20646463e91a07803282724b1d06/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/211f9b195423ab5b530e3384571cb5cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/211f9b195423ab5b530e3384571cb5cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0ebed83f3866fca52b9a70e7a612624d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0ebed83f3866fca52b9a70e7a612624d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e9d461a587049143a96a39a82428d424/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e9d461a587049143a96a39a82428d424/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/29278d97225ad8c6bc312e6a9be2670d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/29278d97225ad8c6bc312e6a9be2670d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/6ccff2144a6000cdddb21838e92d8262/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/6ccff2144a6000cdddb21838e92d8262/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08e62bbd108e4ec1da1fcb1ced218d67/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08e62bbd108e4ec1da1fcb1ced218d67/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/32281f8721aa18f1c2770602e5874bf6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/32281f8721aa18f1c2770602e5874bf6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/04c502dbc1540f6a03a94a00a2158e57/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/04c502dbc1540f6a03a94a00a2158e57/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/211f9b195423ab5b530e3384571cb5cc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/211f9b195423ab5b530e3384571cb5cc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0ebed83f3866fca52b9a70e7a612624d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/0ebed83f3866fca52b9a70e7a612624d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e9d461a587049143a96a39a82428d424/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e9d461a587049143a96a39a82428d424/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/29278d97225ad8c6bc312e6a9be2670d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/29278d97225ad8c6bc312e6a9be2670d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/6ccff2144a6000cdddb21838e92d8262/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/6ccff2144a6000cdddb21838e92d8262/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08e62bbd108e4ec1da1fcb1ced218d67/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/08e62bbd108e4ec1da1fcb1ced218d67/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/32281f8721aa18f1c2770602e5874bf6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/32281f8721aa18f1c2770602e5874bf6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/04c502dbc1540f6a03a94a00a2158e57/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/04c502dbc1540f6a03a94a00a2158e57/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:26:13-58
