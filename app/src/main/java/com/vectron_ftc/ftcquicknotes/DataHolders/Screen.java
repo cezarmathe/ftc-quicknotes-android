@@ -18,7 +18,7 @@ public enum Screen {
 //    return string value for the current screen
 //    used to display the current screen in the header
     public String toString() {
-        switch(this){
+        switch(this) {
             case DRAFTS:
                 return "Drafts";
             case FINISHED_THINGS:
@@ -39,6 +39,6 @@ public enum Screen {
                 return "Bin";
             default:
                 return "";
-            }
         }
     }
+}
