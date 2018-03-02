@@ -41,4 +41,32 @@ public enum Screen {
                 return "";
         }
     }
+//    return screen from a screen
+//    used to get a screen value from a string(most likely preference)
+    public static Screen getScreenFromString(String value) {
+        switch (value) {
+            case "DRAFTS":
+                return DRAFTS;
+            case "FINISHED_THINGS":
+                return FINISHED_THINGS;
+            case "QUICK_NOTES":
+                return QUICK_NOTES;
+            case "BUNDLES_OF_PICTURES":
+                return BUNDLES_OF_PICTURES;
+            case "SPY_REPORTS":
+                return SPY_REPORTS;
+            case "FUTURE_PLANS_ACTIVITIES":
+                return FUTURE_PLANS_ACTIVITIES;
+            case "ARCHIVE":
+                return ARCHIVE;
+            case "TAGS":
+                return TAGS;
+            case "BIN":
+                return BIN;
+            case "":
+                return DRAFTS;
+            default:
+                return DRAFTS;
+        }
+    }
 }

@@ -1,4 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/drafts"
+            android:title="@string/drafts" />
+        <item
+            android:id="@+id/quick_notes"
+            android:title="@string/quick_notes" />
+        <item
+            android:id="@+id/pic_bundles"
+            android:title="@string/pic_bundles" />
+        <item
+            android:id="@+id/spy_reports"
+            android:title="@string/spy_reports" />
+        <item
+            android:id="@+id/future_plans_activities"
+            android:title="@string/future_plans_activities" />
+        <item
+            android:id="@+id/finished_things"
+            android:title="@string/finished_things" />
+    </group>
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/tags"
+            android:title="@string/tags" />
+        <item
+            android:id="@+id/archive"
+            android:title="@string/archive" />
+        <item
+            android:id="@+id/bin"
+            android:title="@string/bin" />
+    </group>
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/settings"
+            android:title="@string/settings" />
+    </group>
 
 </menu>

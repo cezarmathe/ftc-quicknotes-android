@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">FTC Quick Notes</string>
+    <string name="drafts">Drafts</string>
+    <string name="finished_things">Finished things</string>
+    <string name="quick_notes">Quick notes</string>
+    <string name="pic_bundles">Bundle of pictures</string>
+    <string name="spy_reports">Spy reports</string>
+    <string name="future_plans_activities">Future plans/activities</string>
+    <string name="archive">Archive</string>
+    <string name="tags">Tags</string>
+    <string name="bin">Bin</string>
+    <string name="settings">Settings</string>
 </resources>
