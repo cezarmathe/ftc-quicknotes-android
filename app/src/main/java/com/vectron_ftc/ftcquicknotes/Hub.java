@@ -11,6 +11,7 @@ import android.view.View;
 import com.vectron_ftc.ftcquicknotes.DataHolders.Screen;
 import com.vectron_ftc.ftcquicknotes.Helpers.PreferencesHelper;
 
+
 public class Hub extends AppCompatActivity {
 
     private Screen currentScreen;
@@ -27,7 +28,7 @@ public class Hub extends AppCompatActivity {
         setContentView(R.layout.activity_hub);
 
 //        initialize preferences
-        preferences = new PreferencesHelper(getApplicationContext());
+        preferences = new PreferencesHelper(this);
 //        handling navigation bar
         hubDrawer = findViewById(R.id.hub_drawer);
         NavigationView hubNavigation = findViewById(R.id.hub_navigation);
@@ -41,8 +42,8 @@ public class Hub extends AppCompatActivity {
                         hubDrawer.closeDrawers();
 //                        set current screen from the selected menu
                         int menuId = menuItem.getItemId();
-                        if (menuId != R.id.settings) {
-                            currentScreen = setScreenFromMenuItem(menuId);
+                        if (menuId != R.id.menu_settings) {
+                            currentScreen = getScreenFromMenuItem(menuId);
                             saveScreen(currentScreen.toString());
                         }
                         else {
@@ -84,25 +85,25 @@ public class Hub extends AppCompatActivity {
         }
     }
 
-    public Screen setScreenFromMenuItem(int menuId) {
+    public Screen getScreenFromMenuItem(int menuId) {
         switch (menuId) {
-            case R.id.drafts:
+            case R.id.menu_drafts:
                 return Screen.DRAFTS;
-            case R.id.finished_things:
+            case R.id.menu_finished_things:
                 return Screen.FINISHED_THINGS;
-            case R.id.quick_notes:
+            case R.id.menu_quick_notes:
                 return Screen.QUICK_NOTES;
-            case R.id.pic_bundles:
+            case R.id.menu_pic_bundles:
                 return Screen.BUNDLES_OF_PICTURES;
-            case R.id.spy_reports:
+            case R.id.menu_spy_reports:
                 return Screen.SPY_REPORTS;
-            case R.id.future_plans_activities:
+            case R.id.menu_future_plans_activities:
                 return Screen.FUTURE_PLANS_ACTIVITIES;
-            case R.id.archive:
+            case R.id.menu_archive:
                 return Screen.ARCHIVE;
-            case R.id.tags:
+            case R.id.menu_tags:
                 return Screen.TAGS;
-            case R.id.bin:
+            case R.id.menu_bin:
                 return Screen.BIN;
             default:
                 return Screen.DRAFTS;
@@ -125,5 +126,38 @@ public class Hub extends AppCompatActivity {
 
     public void reload() {
         // TODO: 3/2/18 write function for reloading list items according to current screen
+        NavigationView hubNavigation = findViewById(R.id.hub_navigation);
+        switch(currentScreen) {
+            case DRAFTS:
+                hubNavigation.setCheckedItem(R.id.menu_drafts);
+                break;
+            case FINISHED_THINGS:
+                hubNavigation.setCheckedItem(R.id.menu_finished_things);
+                break;
+            case QUICK_NOTES:
+                hubNavigation.setCheckedItem(R.id.menu_quick_notes);
+                break;
+            case BUNDLES_OF_PICTURES:
+                hubNavigation.setCheckedItem(R.id.menu_pic_bundles);
+                break;
+            case SPY_REPORTS:
+                hubNavigation.setCheckedItem(R.id.menu_spy_reports);
+                break;
+            case FUTURE_PLANS_ACTIVITIES:
+                hubNavigation.setCheckedItem(R.id.menu_future_plans_activities);
+                break;
+            case ARCHIVE:
+                hubNavigation.setCheckedItem(R.id.menu_archive);
+                break;
+            case TAGS:
+                hubNavigation.setCheckedItem(R.id.menu_tags);
+                break;
+            case BIN:
+                hubNavigation.setCheckedItem(R.id.menu_bin);
+                break;
+            default:
+                hubNavigation.setCheckedItem(R.id.menu_drafts);
+                break;
+        }
     }
 }
