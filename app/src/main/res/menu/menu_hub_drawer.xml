@@ -36,7 +36,7 @@
     </group>
 
     <group
-        android:checkableBehavior="single">
+        android:checkableBehavior="none">
         <item
             android:id="@+id/menu_settings"
             android:title="@string/settings" />

@@ -312,6 +312,10 @@
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add_circle_black_24dp.png.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/drawable-xhdpi/ic_add_circle_black_24dp.png"
+    },
+    {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -604,16 +608,16 @@
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
-        "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/res/layout/design_menu_item_action_area.xml"
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
@@ -680,10 +684,6 @@
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/menu_hub_drawer_menu.xml.flat",
-        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/menu/hub_drawer_menu.xml"
-    },
-    {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
@@ -694,6 +694,10 @@
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add_circle_black_24dp.png.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/drawable-mdpi/ic_add_circle_black_24dp.png"
     },
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -814,6 +818,10 @@
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout_layout_hub.xml.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/layout/layout_hub.xml"
     },
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
@@ -972,6 +980,10 @@
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add_circle_black_24dp.png.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/drawable-xxxhdpi/ic_add_circle_black_24dp.png"
+    },
+    {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable_design_fab_background.xml.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/res/drawable/design_fab_background.xml"
     },
@@ -1002,6 +1014,10 @@
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add_circle_black_24dp.png.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/drawable-hdpi/ic_add_circle_black_24dp.png"
     },
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -1244,6 +1260,10 @@
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout_header_navigation.xml.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/layout/header_navigation.xml"
+    },
+    {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -1262,6 +1282,10 @@
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_circle_black_24dp.png.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/drawable-xxhdpi/ic_add_circle_black_24dp.png"
     },
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1310,10 +1334,6 @@
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout_navigation_header.xml.flat",
-        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/layout/navigation_header.xml"
     },
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1392,6 +1412,10 @@
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/menu_menu_hub_drawer.xml.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/menu/menu_hub_drawer.xml"
+    },
+    {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
@@ -1438,6 +1462,10 @@
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
         "source": "/home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/layout_activity_new_item.xml.flat",
+        "source": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/res/layout/activity_new_item.xml"
     },
     {
         "merged": "/home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",

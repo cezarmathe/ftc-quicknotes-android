@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:design:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cezar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/62bd20646463e91a07803282724b1d06/AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/cezar/.gradle/
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/32281f8721aa18f1c2770602e5874bf6/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/04c502dbc1540f6a03a94a00a2158e57/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e7eff9970e74fa603da2889972507aad/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
-		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
-		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:5:5-21:19
 MERGED from [com.android.support:design:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2d22b317c6e7d4ad5b1587ffcd8114fb/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/cezar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f4315aabdf22971e95b19fab4975d841/AndroidManifest.xml:25:5-29:19
@@ -78,23 +78,27 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/cezar/.gradle/caches/tr
 	android:theme
 		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.vectron_ftc.ftcquicknotes.Hub
-ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:12:9-50
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:12:9-41
 	android:name
 		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:12:19-38
 activity#com.vectron_ftc.ftcquicknotes.Splash
-ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:13:9-18:20
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
 		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:13:19-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:14:13-17:29
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
 ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
 		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.vectron_ftc.ftcquicknotes.NewItem
+ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml:20:19-42
 uses-sdk
 INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/cezar/Projects/FTC-Quick-Notes/ftc-quick-notes-android/app/src/main/AndroidManifest.xml
