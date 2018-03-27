@@ -46,7 +46,6 @@ public class Hub extends AppCompatActivity {
         super.onBackPressed();
     }
 
-
     public void createNewItem() {
         Intent intent = new Intent(this, NewItem.class);
         startActivity(intent);
